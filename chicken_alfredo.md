@@ -26,15 +26,27 @@ Instructions
 9. Slice the cooked chicken breasts and serve it atop the creamy pasta. Garnish with chopped parsley, if desired.
 
 Notes
+
 *You can use any neutral flavored oil suitable for frying, such as vegetable, canola, or avocado oil.
+
 **While authentic Alfredo doesn’t use any heavy cream, our American Alfredo uses it as the base for the sauce, which helps the Parmesan melt in smoothly instead of clumping or sticking to the bottom of the pan. Other dairy products or dairy substitutes contain too much water and won’t have the same effect. I don’t suggest substituting the heavy cream!
+
 ***I made sure this recipe tastes great even when using less expensive Parmesan (like the canned stuff!). But if you have room in your budget for a wedge of fresh Parmesan, by all means, use it! But just know that you can still make a tasty Alfredo even if you can’t afford the good stuff.
+
 ****My preferred pasta for this recipe is fettuccine. Linguine or spaghetti also works in a pinch; just make sure to adjust the cooking time according to the package instructions.
+
 Nutrition
+
 Serving: 1serving
+
 Calories: 756kcal
+
 Carbohydrates: 46g
+
 Protein: 47g
+
 Fat: 42g
+
 Sodium: 719mg
+
 Fiber: 2g
