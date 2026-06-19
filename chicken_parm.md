@@ -1,12 +1,5 @@
 Ingredients
 
-1/2x
-
-1x
-
-2x
-
-Original recipe (1X) yields 4 servings
 
 4 skinless, boneless chicken breast halves
 
