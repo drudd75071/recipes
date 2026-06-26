@@ -1,6 +1,6 @@
-# 🌮 Skinnytaste Chicken Quesadillas
+# 🌮 Skinnytaste Chicken Quesadillas (Low-Sodium Variant)
 
-A lighter, healthier take on classic chicken quesadillas. Packed with lean shredded chicken, sautéed peppers and onions, and gooey melted cheese, this quick meal delivers all the comfort food flavor with a fraction of the calories.
+A lighter, healthier take on classic chicken quesadillas. Packed with lean shredded chicken, sautéed peppers and onions, and gooey melted cheese, this quick meal delivers all the comfort food flavor with a fraction of the calories. This version swaps out store-bought packets for a clean, low-sodium homemade taco seasoning.
 
 * **Prep Time:** 15 mins
 * **Cook Time:** 15 mins
@@ -16,9 +16,14 @@ A lighter, healthier take on classic chicken quesadillas. Packed with lean shred
 * **1 tbsp olive oil**
 * **1 medium bell pepper** (any color), thinly sliced
 * **½ large yellow onion**, thinly sliced
-* **1 tbsp low-sodium taco seasoning** (or fajita seasoning)
+* **Homemade Taco Seasoning:**
+  * 1 tbsp Chili powder
+  * 1 tsp Ground cumin
+  * ½ tsp Garlic powder
+  * ½ tsp Onion powder
+  * ¼ tsp Salt
 * **¼ cup water**
-* **Salt and black pepper**, to taste
+* **Black pepper**, to taste
 
 ### For Assembly
 * **4 large low-carb / high-fiber tortillas** (such as Mission Carb Balance or Tumaro's)
@@ -35,7 +40,7 @@ A lighter, healthier take on classic chicken quesadillas. Packed with lean shred
 ## 🍳 Cooking Directions
 
 ### 1. Cook and Shred the Chicken
-1. Season both sides of the chicken breasts with a pinch of salt and black pepper.
+1. Season both sides of the chicken breasts with a pinch of black pepper.
 2. Heat a large non-stick skillet over medium-high heat and coat lightly with cooking spray.
 3. Add the chicken and cook for **6 to 7 minutes per side**, or until the internal temperature reaches 165°F (74°C).
 4. Remove the chicken from the skillet, let it rest for a few minutes, then shred it using two forks or dice it into bite-sized cubes. Set aside.
@@ -44,7 +49,7 @@ A lighter, healthier take on classic chicken quesadillas. Packed with lean shred
 1. In the same skillet, add **1 tablespoon of olive oil** over medium heat.
 2. Toss in the sliced **bell peppers** and **onions**. Sauté for 4 to 5 minutes until the vegetables are tender-crisp and slightly caramelized.
 3. Return the shredded chicken to the skillet with the vegetables.
-4. Sprinkle the **taco seasoning** over the mixture and pour in **¼ cup of water**. 
+4. Sprinkle the **chili powder, cumin, garlic powder, onion powder, and salt** over the mixture and pour in **¼ cup of water**. 
 5. Stir well and simmer for 2 to 3 minutes until most of the liquid has evaporated and the filling is coated evenly. Remove from heat.
 
 ### 3. Assemble the Quesadillas
